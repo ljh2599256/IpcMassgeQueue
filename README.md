@@ -1,1 +1,1 @@
-# IpcMassgeQueue
+# IpcMessageQueue
